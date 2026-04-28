@@ -1,11 +1,8 @@
 import "./App.css";
+import Profile from "./Profile";
 
 function App() {
-  return (
-    <>
-      <h1>Hello, React!</h1>
-    </>
-  );
+  return <Profile />;
 }
 
 export default App;

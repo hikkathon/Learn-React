@@ -1,0 +1,14 @@
+.avatar {
+    border-radius: 50%;
+}
+.card {
+    width: fit-content;
+    border: solid 1px #000;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card-content {
+    text-align: center;
+}
