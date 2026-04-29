@@ -1,9 +1,10 @@
 import "./App.css";
+import Gallery from "./Gallery";
 
 function App() {
   return (
     <>
-      <h1>Hello, React!</h1>
+      <Gallery />
     </>
   );
 }
